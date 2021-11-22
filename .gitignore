@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# CLion setting folder
+.settings/
+
+# CMake getnereted files and folder
+cmake-build-debug/
+out-release/
+out/
+
 # User-specific files
 *.rsuser
 *.suo
